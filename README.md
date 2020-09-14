@@ -1,51 +1,49 @@
 # learning
 
----
-
 ## Table of Contents
 
-+ [Business applications](#develop-a-business-acumen)
-+ [ML problem solving](#be-able-to-frame-a-ml-problem)
-+ [Data ethics](#understand-data-ethics-better)
-+ [Data labeling](#be-able-to-annotate-data-efficiently)
-+ [Data wrangling: NumPy](#be-able-to-manipulate-data-with-numpy)
-+ [Data wrangling: Pandas](#be-able-to-manipulate-data-with-pandas)
-+ [Data wrangling: Spreadsheets](#be-able-to-manipulate-data-in-spreadsheets)
-+ [Data wrangling: Databases](#be-able-to-manipulate-data-in-databases)
-+ [Command Line](#be-able-to-use-the-command-line)
-+ [Data Import](#be-able-to-import-data-from-multiple-sources)
-+ [Feature Engineering](#be-able-to-perform-feature-engineering)
-+ [Notebooks](#be-able-to-experiment-in-notebook)
-+ [Data Visualization](#be-able-to-visualize-data)
-+ [Research](#be-able-to-to-read-research-papers)
-+ [Maths](#be-able-to-model-problems-mathematically)
-+ [ML projects structure](#be-able-to-structure-machine-learning-projects)
-+ [Version Control](#be-able-to-utilize-version-control)
-+ [Model types](#be-familiar-with-a-breadth-of-models-and-algorithms)
-+ [Model implementation: scikit-learn](#be-able-to-implement-models-in-scikit-learn)
-+ [Model implementation: Keras and Tensorflow](#be-able-to-implement-models-in-tensorflow-and-keras)
-+ [Be able to implement models in PyTorch](#be-able-to-implement-models-in-pytorch)
-+ [Be able to apply unsupervised learning algorithms](#be-able-to-apply-unsupervised-learning-algorithms)
-+ [Be able to implement computer vision models](#be-able-to-implement-computer-vision-models)
-+ [Be able to implement NLP models](#be-able-to-implement-nlp-models)
-+ [Be able to model graphs and network data](#be-able-to-model-graphs-and-network-data)
-+ [Be able to implement models for timeseries and forecasting](#be-able-to-implement-models-for-timeseries-and-forecasting)
-+ [Be familiar with Reinforcement Learning](#be-familiar-with-reinforcement-learning)
-+ [Be able to use managed ML services on the cloud](#be-able-to-use-managed-ml-services-on-the-cloud)
-+ [Be able to optimize performance metric](#be-able-to-optimize-performance-metric)
-+ [Be able to optimize models for production](#be-able-to-optimize-models-for-production)
-+ [Be able to deploy model to production](#be-able-to-deploy-model-to-production)
-+ [Be able to perform A/B testing](#be-able-to-perform-a-b-testing)
-+ [Be able to write unit tests](#be-able-to-write-unit-tests)
-+ [Be proficient in Python](#be-proficient-in-python)
-+ [Be familiar with compiled languages](#be-familiar-with-compiled-languages)
-+ [Have a general understanding of other parts of the stack](#have-a-general-understanding-of-other-parts-of-the-stack)
-+ [Be familiar with fundamental Computer Science concepts](#be-familiar-with-fundamental-computer-science-concepts)
-+ [Be able to apply proper software engineering process](#be-able-to-apply-proper-software-engineering-process)
-+ [Be able to efficiently use a text editor](#be-able-to-efficiently-use-a-text-editor)
-+ [Be able to communicate and collaborate well](#be-able-to-communicate-and-collaborate-well)
-+ [Be familiar with the hiring pipeline](#be-familiar-with-the-hiring-pipeline)
-+ [Broaden Perspective](#broaden-perspective)
+- [Business applications](#business-applications)
+- [ML problem solving](#ml-problem-solving)
+- [Data ethics](#data-ethics)
+- [Data labeling](#data-labeling)
+- [Data wrangling: NumPy](#data-wrangling--numpy)
+- [Data wrangling: Pandas](#data-wrangling--pandas)
+- [Data wrangling: Spreadsheets](#data-wrangling--spreadsheets)
+- [Data wrangling: Databases](#data-wrangling--databases)
+- [Command Line](#command-line)
+- [Data Import](#data-import)
+- [Feature Engineering](#feature-engineering)
+- [Notebooks](#notebooks)
+- [Data Visualization](#data-visualization)
+- [Research](#research)
+- [Maths](#maths)
+- [ML projects structure](#ml-projects-structure)
+- [Version Control](#version-control)
+- [Model types](#model-types)
+- [Model implementation: scikit-learn](#model-implementation--scikit-learn)
+- [Model implementation: Keras and Tensorflow](#model-implementation--keras-and-tensorflow)
+- [Model implementation: PyTorch](#model-implementation--pytorch)
+- [Unsupervised Learning](#unsupervised-learning)
+- [Computer Vision](#computer-vision)
+- [Natural Language Processing](#natural-language-processing)
+- [Graphs and Networks](#graphs-and-networks)
+- [Time Series and Forecasting](#time-series-and-forecasting)
+- [Reinforcement Learning](#reinforcement-learning)
+- [Cloud ML](#cloud-ml)
+- [Performance metrics](#performance-metrics)
+- [Model optimization](#model-optimization)
+- [Model deployment](#model-deployment)
+- [A/B testing](#a-b-testing)
+- [Unit testing](#unit-testing)
+- [Python proficiency](#python-proficiency)
+- [Compiled languages](#compiled-languages)
+- [Full stack development](#full-stack-development)
+- [General: Computer Science](#general--computer-science)
+- [General: Software Engineering](#general--software-engineering)
+- [Text editors](#text-editors)
+- [Communication and Collaboration](#communication-and-collaboration)
+- [Hiring process](#hiring-process)
+- [Broaden Perspective](#broaden-perspective)
 
 ---
 
@@ -757,7 +755,7 @@
 - [ ] [Pluralsight: Deep Learning with Keras](https://www.pluralsight.com/courses/keras-deep-learning)
 - [ ] [Udacity: Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
 
-### Be able to implement models in PyTorch
+### Model implementation: PyTorch
 - [ ] [Article: An introduction to PyTorch Lightning with comparisons to PyTorch](https://amaarora.github.io/2020/07/12/oganized-pytorch.html)
 - [ ] [Datacamp: Introduction to Deep Learning with PyTorch](https://www.datacamp.com/courses/deep-learning-with-pytorch)
 - [ ] [Deeplizard: Neural Network Programming - Deep Learning with PyTorch](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)
@@ -774,7 +772,7 @@
     - [ ] [[PART 2] Skin Cancer Detection with PyTorch](https://www.youtube.com/watch?v=wspdT8hRCWs) `0:21:57`
     - [ ] [[PART 3] Skin Cancer Detection with PyTorch](https://www.youtube.com/watch?v=zFqsuXs6-Us) `0:22:24`
 
-### Be able to apply unsupervised learning algorithms
+### Unsupervised Learning
 - [ ] [Article: Grouping data points with k-means clustering](https://www.jeremyjordan.me/grouping-data-points-with-k-means-clustering/)
 - [ ] [Article: Soft clustering with Gaussian mixed models (EM)](https://www.jeremyjordan.me/gaussian-mixed-models/)
 - [ ] [Article: Introduction to autoencoders](https://www.jeremyjordan.me/autoencoders/)
@@ -851,7 +849,7 @@
     - [ ] [Self-Supervision as a Path to a Post-Dataset Era - Alexei Alyosha Efros](https://www.youtube.com/watch?v=iTbfEXFwDJc) `0:38:06`
     - [ ] [Self-Supervision & Modularity: Cornerstones for Generalization in Embodied Agents - Deepak Pathak](https://www.youtube.com/watch?v=fUMpC_hoedA) `0:41:56`
 
-### Be able to implement computer vision models
+### Computer Vision
 - [ ] [Article: What is Focal Loss and when should you use it?](https://amaarora.github.io/2020/06/29/FocalLoss.html)
 - [ ] [Article: Squeeze and Excitation Networks Explained with PyTorch Implementation](https://amaarora.github.io/2020/07/24/SeNet.html)
 - [ ] [Article: DenseNet Architecture Explained with PyTorch Implementation from TorchVision](https://amaarora.github.io/2020/08/02/densenets.html)
@@ -916,7 +914,7 @@
 - [ ] [Youtube: Convolution Neural Networks - EXPLAINED](https://www.youtube.com/watch?v=m8pOnJxOcqY) `0:19:20`
 - [ ] [Youtube: Generative Adversarial Networks - FUTURISTIC & FUN AI !](https://www.youtube.com/watch?v=O8LAi6ksC80) `0:14:20`
 
-### Be able to implement NLP models
+### Natural Language Processing
 - [ ] [Article: The Annotated GPT-2](https://amaarora.github.io/2020/02/18/annotatedGPT2.html)
 - [ ] [Article: Introduction to recurrent neural networks](https://www.jeremyjordan.me/introduction-to-recurrent-neural-networks/)
 - [ ] [Article: Aspect-Based Opinion Mining (NLP with Python)](https://medium.com/@pmin91/aspect-based-opinion-mining-nlp-with-python-a53eb4752800)
@@ -1163,11 +1161,11 @@
     - [ ] [What is Linguistics?: Crash Course Linguistics #1](https://www.youtube.com/watch?v=3yLXNzDUH58) `0:11:11`
 
 
-### Be able to model graphs and network data
+### Graphs and Networks
 - [ ] [Datacamp: Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
 - [ ] [Datacamp: Network Analysis in Python (Part 2)](https://www.datacamp.com/courses/network-analysis-in-python-part-2)
 
-### Be able to implement models for timeseries and forecasting
+### Time Series and Forecasting
 - [ ] [Datacamp: Machine Learning for Finance in Python](https://www.datacamp.com/courses/machine-learning-for-finance-in-python)
 - [ ] [Datacamp: Introduction to Time Series Analysis in Python](https://www.datacamp.com/courses/introduction-to-time-series-analysis-in-python)
 - [ ] [Datacamp: Machine Learning for Time Series Data in Python](https://www.datacamp.com/courses/machine-learning-for-time-series-data-in-python)
@@ -1183,7 +1181,7 @@
 - [ ] [Udacity: Machine Learning for Trading](https://www.udacity.com/course/machine-learning-for-trading--ud501)
 - [ ] [Udacity: Time Series Forecasting](https://www.udacity.com/course/time-series-forecasting--ud980)
 
-### Be familiar with Reinforcement Learning
+### Reinforcement Learning
 - [ ] [DeepLizard: Reinforcement Learning - Goal Oriented Intelligence](https://www.youtube.com/playlist?list=PLZbbT5o_s2xoWNVdDudn51XM8lOuZ_Njv)
 	- [ ] [Reinforcement Learning Series Intro - Syllabus Overview](https://www.youtube.com/watch?v=nyjbcRQ-uQ8) `0:05:51`
 	- [ ] [Markov Decision Processes (MDPs) - Structuring a Reinforcement Learning Problem](https://www.youtube.com/watch?v=my207WNoeyA) `0:06:34`
@@ -1204,7 +1202,7 @@
 	- [ ] [Deep Q-Network Image Processing and Environment Management - Reinforcement Learning Code Project](https://www.youtube.com/watch?v=jkdXDinWfo8) `0:21:53`
 	- [ ] [Deep Q-Network Training Code - Reinforcement Learning Code Project](https://www.youtube.com/watch?v=ewRw996uevM) `0:19:46`
 
-### Be able to use managed ML services on the cloud
+### Cloud ML
 - [ ] [AWS: Amazon Transcribe Deep Dive: Using Feedback Loops to Improve Confidence Level of Transcription](https://www.aws.training/learningobject/video?id=27495)
 - [ ] [AWS: Build a Text Classification Model with AWS Glue and Amazon SageMaker](https://www.aws.training/learningobject/video?id=27225)
 - [ ] [AWS: Deep Dive on Amazon Rekognition: Building Computer Visions Based Smart Applications](https://www.aws.training/learningobject/video?id=27230)
@@ -1227,7 +1225,7 @@
 - [ ] [AWS: Satellite Image Classification in SageMaker](https://www.aws.training/learningobject/video?id=27231)
 - [ ] [edX: Amazon SageMaker: Simplifying Machine Learning Application Development](https://www.edx.org/course/simplifying-machine-learning-app-development-with-amazon-sagemaker)
 
-### Be able to optimize performance metric
+### Performance metrics
 - [ ] [Article: Evaluating a machine learning model](https://www.jeremyjordan.me/evaluating-a-machine-learning-model/)
 - [ ] [Article: Hyperparameter tuning for machine learning models](https://www.jeremyjordan.me/hyperparameter-tuning/)
 - [ ] [Article: Hacker's Guide to Hyperparameter Tuning](https://www.curiousily.com/posts/hackers-guide-to-hyperparameter-tuning/)
@@ -1239,14 +1237,14 @@
 - [ ] [Youtube: How do GPUs speed up Neural Network training?](https://www.youtube.com/watch?v=EKD1kEMNeeU) `0:08:19`
 - [ ] [Youtube: Why use GPU with Neural Networks?](https://www.youtube.com/watch?v=GRRMi7UfZHg) `0:09:43`
 
-### Be able to optimize models for production
+### Model optimization
 - [ ] [Article: Neural Network Pruning](https://nathanhubens.github.io/posts/deep%20learning/2020/05/22/pruning.html)
 - [ ] [Article: FasterAI](https://nathanhubens.github.io/posts/deep%20learning/2020/08/17/FasterAI.html)
 - [ ] [Article: Is the future of Neural Networks Sparse? An Introduction (1/N)](https://medium.com/huggingface/is-the-future-of-neural-networks-sparse-an-introduction-1-n-d03923ecbd70)
 - [ ] [Article: Sparse Neural Networks (2/N): Understanding GPU Performance.](https://medium.com/huggingface/sparse-neural-networks-2-n-gpu-performance-b8bc9ce950fc)
 - [ ] [Article: Block Sparse Matrices for Smaller and Faster Language Models](https://huggingface.co/blog/pytorch_block_sparse)
 
-### Be able to deploy model to production
+### Model deployment
 - [ ] [Acloudguru: AWS Certified Machine Learning - Specialty](https://acloud.guru/learn/aws-certified-machine-learning-specialty)
 - [ ] [Acloudguru: AWS Certified Developer - Associate](https://acloud.guru/learn/aws-certified-developer-associate-june-2018)
 - [ ] [Acloudguru: AWS Certification Preparation Guide](https://acloud.guru/learn/aws-certification-preparation)
@@ -1319,14 +1317,14 @@
 - [ ] [Youtube: PyConBY 2020: Sebastian Ramirez - Serve ML models easily with FastAPI](https://www.youtube.com/watch?v=z9K5pwb0rt8)
 - [ ] [Youtube: FastAPI from the ground up](https://www.youtube.com/watch?v=3DLwPcrE5mA)
 
-### Be able to perform A/B testing
+### A/B testing
 - [ ] [Datacamp: Customer Analytics & A/B Testing in Python](https://www.datacamp.com/courses/customer-analytics-ab-testing-in-python)
 - [ ] [Udacity: A/B Testing](https://www.udacity.com/course/ab-testing--ud257)
 - [ ] [Udacity: A/B Testing for Business Analysts](https://www.udacity.com/course/ab-testing--ud979)
 - [ ] [Youtube: A/B Testing - Simply Explained](https://www.youtube.com/watch?v=pRTAiluUP-8) `0:02:45`
 - [ ] [Youtube: Hypothesis testing with Applications in Data Science](https://www.youtube.com/watch?v=kx-pcQAPvoc) `0:10:33`
 
-### Be able to write unit tests
+### Unit testing
 - [ ] [Article: Effective testing for machine learning systems](https://www.jeremyjordan.me/testing-ml)
 - [ ] [Datacamp: Unit Testing for Data Science in Python](https://www.datacamp.com/courses/unit-testing-for-data-science-in-python)
 - [ ] [Pluralsight: Test-driven Development: The Big Picture](https://www.pluralsight.com/courses/test-driven-development-big-picture)
@@ -1337,7 +1335,7 @@
 - [ ] [Udacity: Software Testing](https://www.udacity.com/course/software-testing--cs258)
 - [ ] [Udacity: Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
 
-### Be proficient in Python
+### Python proficiency
 - [ ] [Article: No Really, Python's Pathlib is Great](https://rednafi.github.io/digressions/python/2020/04/13/python-pathlib.html)
 - [ ] [Book: A Byte of Python](https://python.swaroopch.com)
 - [ ] [Book: Learn Python The Hard way](https://learnpythonthehardway.org)
@@ -1376,12 +1374,12 @@
 - [ ] [Udacity: Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
 - [ ] [Udacity: What is Programming?](https://www.udacity.com/course/what-is-programming--ud994)
 
-### Be familiar with compiled languages
+### Compiled languages
 - [ ] [Codecademy: Learn Java](https://www.codecademy.com/learn/learn-java)
 - [ ] [Udacity: C++ For Programmers](https://www.udacity.com/course/c-for-programmers--ud210)
 - [ ] [Udacity: Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282)
 
-### Have a general understanding of other parts of the stack
+### Full stack development
 - [ ] [Book: Refactoring UI](https://refactoringui.com/book/)
 - [ ] [Codecademy: Learn HTML](https://www.codecademy.com/learn/learn-html)
 - [ ] [Codecademy: Learn Color Design](https://www.codecademy.com/learn/learn-color-design)
@@ -1411,7 +1409,7 @@
 - [ ] [Udacity: Object Oriented JS 2](https://www.udacity.com/course/object-oriented-javascript--ud711)
 - [ ] [Udemy: Understanding Typescript](https://www.udemy.com/understanding-typescript/)
 
-### Be familiar with fundamental Computer Science concepts
+### General: Computer Science
 - [ ] [Codecademy: Big O](https://www.codecademy.com/courses/big-o/0/1 )
 - [ ] [Crashcourse: Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 - [ ] [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) 
@@ -1422,7 +1420,7 @@
 - [ ] [Udacity: Programming Languages](https://www.udacity.com/course/programming-languages--cs262)
 - [ ] [Udacity: Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
 
-### Be able to apply proper software engineering process
+### General: Software Engineering
 - [ ] [Launch School: Agile Planning](https://launchschool.com/books/agile_planning)
 - [ ] [Pluralsight: Product Owner Fundamentals](https://www.pluralsight.com/courses/product-owner-fundamentals-foundations)
 - [ ] [Pluralsight: Scrum Master Fundamentals - Foundations](https://www.pluralsight.com/courses/scrum-master-fundamentals-foundations)
@@ -1438,11 +1436,11 @@
 - [ ] [Udacity: Software Development Process](https://www.udacity.com/course/software-development-process--ud805)
 - [ ] [Udacity: Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
 
-### Be able to efficiently use a text editor
+### Text editors
 - [ ] [Learn Enough Text Editor to Be Dangerous](https://www.learnenough.com/text-editor-tutorial)
 - [ ] [Mastering Pycharm](https://www.amazon.com/Mastering-PyCharm-Quazi-Nafiul-Islam-ebook/dp/B00YSIKR3A)
 
-### Be able to communicate and collaborate well
+### Communication and Collaboration
 - [ ] [Google: Technical Writing](https://developers.google.com/tech-writing)
 - [ ] [Book: Emotional Intelligence](https://www.amazon.com/Emotional-Intelligence-Matter-More-Than/dp/055338371X)
 - [ ] [Book: How to Win Friends & Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)
@@ -1453,7 +1451,7 @@
 - [ ] [Book: The New One Minute Manager](https://www.amazon.com/New-One-Minute-Manager-ebook/dp/B00MMG19OG)
 - [ ] [Youtube: Building a psychologically safe workplace | Amy Edmondson | TEDxHGSE](https://youtu.be/LhoLuui9gX8)
 
-### Be familiar with the hiring pipeline
+### Hiring process
 - [ ] [Datacamp: Preparing for Statistics Interview Questions in Python](https://www.datacamp.com/courses/preparing-for-statistics-interview-questions-in-python)
 - [ ] [Datacamp: Preparing for Coding Interview Questions in Python](https://www.datacamp.com/courses/preparing-for-coding-interview-questions-in-python)
 - [ ] [Udacity: Optimize your GitHub](https://www.udacity.com/course/optimize-your-github--ud247)
