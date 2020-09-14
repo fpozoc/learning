@@ -4,26 +4,26 @@
 
 ## Table of Contents
 
-+ [Develop a business acumen](#develop-a-business-acumen)
-+ [Be able to frame a ML problem](#be-able-to-frame-a-ml-problem)
-+ [Understand data ethics better](#understand-data-ethics-better)
-+ [Be able to annotate data efficiently](#be-able-to-annotate-data-efficiently)
-+ [Be able to manipulate data with Numpy](#be-able-to-manipulate-data-with-numpy)
-+ [Be able to manipulate data with Pandas](#be-able-to-manipulate-data-with-pandas)
-+ [Be able to manipulate data in spreadsheets](#be-able-to-manipulate-data-in-spreadsheets)
-+ [Be able to manipulate data in databases](#be-able-to-manipulate-data-in-databases)
-+ [Be able to use the command line](#be-able-to-use-the-command-line)
-+ [Be able to import data from multiple sources](#be-able-to-import-data-from-multiple-sources)
-+ [Be able to perform feature engineering](#be-able-to-perform-feature-engineering)
-+ [Be able to experiment in notebook](#be-able-to-experiment-in-notebook)
-+ [Be able to visualize data](#be-able-to-visualize-data)
-+ [Be able to to read research papers](#be-able-to-to-read-research-papers)
-+ [Be able to model problems mathematically](#be-able-to-model-problems-mathematically)
-+ [Be able to structure machine learning projects](#be-able-to-structure-machine-learning-projects)
-+ [Be able to utilize version control](#be-able-to-utilize-version-control)
-+ [Be familiar with a breadth of models and algorithms](#be-familiar-with-a-breadth-of-models-and-algorithms)
-+ [Be able to implement models in scikit-learn](#be-able-to-implement-models-in-scikit-learn)
-+ [Be able to implement models in Tensorflow and Keras](#be-able-to-implement-models-in-tensorflow-and-keras)
++ [Business applications](#develop-a-business-acumen)
++ [ML problem solving](#be-able-to-frame-a-ml-problem)
++ [Data ethics](#understand-data-ethics-better)
++ [Data labeling](#be-able-to-annotate-data-efficiently)
++ [Data wrangling: NumPy](#be-able-to-manipulate-data-with-numpy)
++ [Data wrangling: Pandas](#be-able-to-manipulate-data-with-pandas)
++ [Data wrangling: Spreadsheets](#be-able-to-manipulate-data-in-spreadsheets)
++ [Data wrangling: Databases](#be-able-to-manipulate-data-in-databases)
++ [Command Line](#be-able-to-use-the-command-line)
++ [Data Import](#be-able-to-import-data-from-multiple-sources)
++ [Feature Engineering](#be-able-to-perform-feature-engineering)
++ [Notebooks](#be-able-to-experiment-in-notebook)
++ [Data Visualization](#be-able-to-visualize-data)
++ [Research](#be-able-to-to-read-research-papers)
++ [Maths](#be-able-to-model-problems-mathematically)
++ [ML projects structure](#be-able-to-structure-machine-learning-projects)
++ [Version Control](#be-able-to-utilize-version-control)
++ [Model types](#be-familiar-with-a-breadth-of-models-and-algorithms)
++ [Model implementation: scikit-learn](#be-able-to-implement-models-in-scikit-learn)
++ [Model implementation: Keras and Tensorflow](#be-able-to-implement-models-in-tensorflow-and-keras)
 + [Be able to implement models in PyTorch](#be-able-to-implement-models-in-pytorch)
 + [Be able to apply unsupervised learning algorithms](#be-able-to-apply-unsupervised-learning-algorithms)
 + [Be able to implement computer vision models](#be-able-to-implement-computer-vision-models)
@@ -55,7 +55,7 @@
 - [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills)
 - [Data Scientists Should Be More End-to-End](https://eugeneyan.com/writing/end-to-end-data-science/)
 
-### Develop a business acumen
+### Business applications
 - [ ] [Book: Delivering Happiness](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220)
 - [ ] [Book: Good to Great: Why Some Companies Make the Leap...And Others Don't](https://www.amazon.com/Good-Great-Some-Companies-Others-ebook/dp/B0058DRUV6)
 - [ ] [Book: Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams](https://www.amazon.com/Hello-Startup-Programmers-Building-Technologies/dp/1491909900)
@@ -101,7 +101,7 @@
 - [ ] [Youtube: Webinars From The Future | Session Two: Interaction Design](https://youtu.be/snUT7_XRW6Q)
 
 
-### Be able to frame a ML problem
+### ML problem solving
 - [ ] [AWS: Types of Machine Learning Solutions](https://www.aws.training/learningobject/video?id=27224)
 - [ ] [Article: Apply Machine Learning to your Business](https://theaisummer.com/Machine-Learning-Business/)
 - [ ] [Book: AI Superpowers: China, Silicon Valley, and the New World Order](https://www.amazon.com/AI-Superpowers-China-Silicon-Valley/dp/132854639X)
@@ -155,7 +155,7 @@
 	- [ ] [Nicolas Koumchatzky - Machine Learning in Production for Self Driving Cars](https://www.youtube.com/watch?v=NbiG8ZuRsqU) `0:44:56`
 	- [ ] [Brandon Rohrer - Machine Learning in Production for Robots](https://www.youtube.com/watch?v=_Ot35PspXw4) `0:34:31`
 
-### Understand data ethics better  
+### Data ethics  
 - [ ] [Practical Data Ethics](http://ethics.fast.ai/)
     - [ ] [Lesson 1: Disinformation](http://ethics.fast.ai/videos/?lesson=1)
     - [ ] [Lesson 2: Bias & Fairness](http://ethics.fast.ai/videos/?lesson=2)
@@ -167,16 +167,16 @@
     - [ ] [Lesson 5.3: Losing the Forest for the Trees, guest lecture by Ali Alkhatib](http://ethics.fast.ai/videos/?lesson=8)
     - [ ] [Lesson 6: Algorithmic Colonialism, and Next Steps](http://ethics.fast.ai/videos/?lesson=9)
 
-### Be able to annotate data efficiently
+### Data labeling
 - [ ] [Youtube: Snorkel: Dark Data and Machine Learning - Christopher Ré](https://www.youtube.com/watch?v=yu15Nf5eJEE)
 - [ ] [Youtube: Training a NER Model with Prodigy and Transfer Learning](https://youtu.be/59BKHO_xBPA)
 - [ ] [Youtube: Training a New Entity Type with Prodigy – annotation powered by active learning](https://youtu.be/l4scwf8KeIA)
 
-### Be able to manipulate data with Numpy
+### Data wrangling: NumPy
 - [ ] [Datacamp: Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 - [ ] [Pluralsight: Working with Multidimensional Data Using NumPy](https://www.pluralsight.com/courses/numpy-working-with-multidimensional-data)
 
-### Be able to manipulate data with Pandas
+### Data wrangling: Pandas
 - [ ] [Datacamp: pandas Foundations](https://www.datacamp.com/courses/pandas-foundations)
 - [ ] [Datacamp: Pandas Joins for Spreadsheet Users](https://www.datacamp.com/courses/pandas-joins-for-spreadsheet-users)
 - [ ] [Datacamp: Manipulating DataFrames with pandas](https://www.datacamp.com/courses/manipulating-dataframes-with-pandas)
@@ -195,7 +195,7 @@
     - [ ] [Modern Pandas (Part 7)](https://tomaugspurger.github.io/modern-7-timeseries.html)
     - [ ] [Modern Pandas (Part 8)](https://tomaugspurger.github.io/modern-8-scaling.html)
 
-### Be able to manipulate data in spreadsheets
+### Data wrangling: Spreadsheets
 - [ ] [Datacamp: Spreadsheet basics](https://www.datacamp.com/courses/spreadsheet-basics)
 - [ ] [Datacamp: Data Analysis with Spreadsheets](https://www.datacamp.com/courses/data-analysis-with-spreadsheets)
 - [ ] [Datacamp: Intermediate Spreadsheets for Data Science](https://www.datacamp.com/courses/intermediate-spreadsheets-for-data-science)
@@ -207,7 +207,7 @@
 - [ ] [Datacamp: Error and Uncertainty in Spreadsheets](https://www.datacamp.com/courses/error-and-uncertainty-in-spreadsheets)
 - [ ] [edX: Analyzing and Visualizing Data with Excel](https://www.edx.org/course/analyzing-visualizing-data-excel-microsoft-dat206x-7)
 
-### Be able to manipulate data in databases
+### Data wrangling: Databases
 - [ ] [Codecademy: SQL Track](https://www.codecademy.com/courses/learn-sql)
 - [ ] [Datacamp: Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)
 - [ ] [Datacamp: Introduction to MongoDB in Python](https://www.datacamp.com/courses/introduction-to-using-mongodb-for-data-science-with-python)
@@ -225,7 +225,7 @@
 - [ ] [Udacity: Intro to relational database](https://www.udacity.com/course/intro-to-relational-databases--ud197)
 - [ ] [Udacity: Database Systems Concepts & Design](https://www.udacity.com/course/database-systems-concepts-design--ud150)
 
-### Be able to use the command line
+### Command Line
 - [ ] [Codecademy: Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
 - [ ] [Datacamp: Introduction to Shell for Data Science](https://www.datacamp.com/courses/introduction-to-shell-for-data-science)
 - [ ] [Datacamp: Data Processing in Shell](https://www.datacamp.com/courses/data-processing-in-shell)
@@ -239,11 +239,11 @@
 - [ ] [Udacity: Web Tooling & Automation](https://www.udacity.com/course/web-tooling-automation--ud892)
 - [ ] [Web Bos:  Command Line Power User](https://www.youtube.com/watch?v=DP218aBHm1Q&list=PLu8EoSxDXHP7tXPJp5ZmUpuT7sFvrswzf&index=2)
 
-### Be able to import data from multiple sources
+### Data Import
 - [ ] [Datacamp: Importing Data in Python (Part 2)](https://www.datacamp.com/courses/importing-data-in-python-part-2)
 - [ ] [Datacamp: Web Scraping in Python](https://www.datacamp.com/courses/web-scraping-with-python)
 
-### Be able to perform feature engineering
+### Feature Engineering
 - [ ] [Article: Preparing data for a machine learning model](https://www.jeremyjordan.me/preparing-data-for-a-machine-learning-model/)
 - [ ] [Article: Feature selection for a machine learning model](https://www.jeremyjordan.me/feature-selection/)
 - [ ] [Article: Learning from imbalanced data](https://www.jeremyjordan.me/imbalanced-data/)
@@ -265,10 +265,10 @@
 - [ ] [Google: Feature Engineering](https://www.coursera.org/learn/feature-engineering)
 - [ ] [Udacity: Creating an Analytical Dataset](https://www.udacity.com/course/creating-an-analytical-dataset--ud977)
 
-### Be able to experiment in notebook
+### Notebooks
 - [ ] [Pluralsight: Getting Started with Jupyter Notebook and Python](https://www.pluralsight.com/courses/jupyter-notebook-python)
 
-### Be able to visualize data
+### Data Visualization
 - [ ] [Datacamp: Introduction to Data Visualization with Python](https://www.datacamp.com/courses/introduction-to-data-visualization-with-python)
 - [ ] [Datacamp: Introduction to Seaborn](https://www.datacamp.com/courses/introduction-to-seaborn)
 - [ ] [Datacamp: Introduction to Matplotlib](https://www.datacamp.com/courses/introduction-to-matplotlib)
@@ -281,7 +281,7 @@
 - [ ] [Youtube: Jake VanderPlas - Exploratory Data Visualization with Vega, Vega-Lite, and Altair - PyCon 2018](https://www.youtube.com/watch?v=ms29ZPUKxbU)
 - [ ] [UWData: Data Visualization Curriculum](https://github.com/uwdata/visualization-curriculum)
 
-### Be able to to read research papers
+### Research
 - [ ] [Paper: A Neural Probabilistic Language Model](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
 - [ ] [Paper: Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf)
 - [ ] [Paper: Sequence to Sequence Learning with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
@@ -329,7 +329,7 @@
 - [ ] [Whitepaper: Running Containerized Microservices on AWS](https://d1.awsstatic.com/whitepapers/DevOps/running-containerized-microservices-on-aws.pdf)
 - [ ] [Whitepaper: Serverless Architectures with AWS Lambda](https://d1.awsstatic.com/whitepapers/serverless-architectures-with-aws-lambda.pdf)
 
-### Be able to model problems mathematically
+### Maths
 - [ ] [3Blue1Brown: Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 	- [ ] [The Essence of Calculus, Chapter 1](https://www.youtube.com/watch?v=WUvTyaaNkzM) `0:17:04`
 	- [ ] [The paradox of the derivative | Essence of calculus, chapter 2](https://www.youtube.com/watch?v=9vKqVkMQHKk) `0:17:57`
@@ -464,7 +464,7 @@
 - [ ] [Youtube: Logistic Regression - THE MATH YOU SHOULD KNOW!](https://www.youtube.com/watch?v=YMJtsYIp4kg) `0:09:14`
 - [ ] [Youtube: But what *is* a Neural Network? - THE MATH YOU SHOULD KNOW!](https://www.youtube.com/watch?v=oB3gmT8GAgI) `0:19:07`
 
-### Be able to structure machine learning projects
+### ML projects structure
 - [ ] [Article: Organizing machine learning projects: project management guidelines](https://www.jeremyjordan.me/ml-projects-guide/)
 - [ ] [Article: Building machine learning products: a problem well-defined is a problem half-solved.](https://www.jeremyjordan.me/ml-requirements/)
 - [ ] [Coursera: Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
@@ -514,7 +514,7 @@
     - [ ] [MLOps Tutorial #2: When data is too big for Git](https://youtu.be/kZKAuShWF0s?list=PL7WG7YrwYcnDBDuCkFbcyjnZQrdskFsBz) `10:51:00`
     - [ ] [MLOps Tutorial #3: Track ML models with Git & GitHub Actions](https://youtu.be/xPncjKH6SPk?list=PL7WG7YrwYcnDBDuCkFbcyjnZQrdskFsBz) `14:12:00`
 
-### Be able to utilize version control
+### Version Control
 - [ ] [Article: Mastering Git Stash Workflow](https://dev.to/yankee/mastering-git-stash-workflow-223)
 - [ ] [Codecademy: Learn Git](https://www.codecademy.com/learn/learn-git)
 - [ ] [Code School: Git Real](https://www.pluralsight.com/courses/code-school-git-real)
@@ -525,7 +525,7 @@
 - [ ] [Udacity: How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 - [ ] [Udacity: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
 
-### Be familiar with a breadth of models and algorithms
+### Model types
 - [ ] [Article: Label Smoothing Explained using Microsoft Excel](https://amaarora.github.io/2020/07/18/label-smoothing.html)
 - [ ] [Article: Naive Bayes classification](https://www.jeremyjordan.me/naive-bayes-classification/)
 - [ ] [Article: Linear regression](https://www.jeremyjordan.me/linear-regression/)
@@ -709,7 +709,7 @@
     - [ ] [The Neural Network, A Visual Introduction | Visualizing Deep Learning, Chapter 1](https://youtu.be/UOvPeC8WOt8?list=PLyPKqVSnetmEOp_g_hfabuRAs9ET-shl_)
 - [ ] [Youtube: Deep Double Descent](https://youtu.be/R29awq6jvUw)
 
-### Be able to implement models in scikit-learn
+### Model implementation: scikit-learn
 - [ ] [Datacamp: Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
 - [ ] [Datacamp: Machine Learning with Tree-Based Models in Python](https://www.datacamp.com/courses/machine-learning-with-tree-based-models-in-python)
 - [ ] [Datacamp: Introduction to Linear Modeling in Python](https://www.datacamp.com/courses/introduction-to-linear-modeling-in-python)
@@ -740,7 +740,7 @@
 	- [ ] [Applied ML 2020 - 20 - Advanced neural networks](https://www.youtube.com/watch?v=2FNmbX901r0) `1:36:28`
 	- [ ] [Applied ML 2020 - 21 - Time Series and Forecasting](https://www.youtube.com/watch?v=GVGEnaJsuu8) `1:12:36`
 
-### Be able to implement models in Tensorflow and Keras
+### Model implementation: Keras and Tensorflow
 - [ ] [Coursera: Introduction to Tensorflow](https://www.coursera.org/learn/introduction-tensorflow)
 - [ ] [Coursera: Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow)
 - [ ] [Coursera: Getting Started With Tensorflow 2](https://www.coursera.org/learn/getting-started-with-tensor-flow2)
