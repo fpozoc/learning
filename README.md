@@ -1,4 +1,4 @@
-# learning ![](https://hits.dwyl.com/amitness/learning.svg)
+# learning
 
 **Learning Philosophy**: 
 - [The Power of Tiny Gains](https://jamesclear.com/continuous-improvement)
