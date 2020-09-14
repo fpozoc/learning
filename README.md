@@ -1,10 +1,5 @@
 # learning ![](https://hits.dwyl.com/amitness/learning.svg)
 
-
-<p align="center">
-  <img src="https://i.imgur.com/A5J6Qdb.png" width="316" height="292"/>
-</p>
-
 **Learning Philosophy**: 
 - [The Power of Tiny Gains](https://jamesclear.com/continuous-improvement)
 - [Master Adjacent Disciplines](http://www.effectiveengineer.com/blog/master-adjacent-disciplines)
